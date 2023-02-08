@@ -1,0 +1,1 @@
+[05-Apr-2021 06:25:29 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ExpenseListController::expense() in /home/pu259pagr0se/public_html/pos.thearomabakers.com/app/Http/Controllers/ExpenseListController.php on line 56
